@@ -1,6 +1,6 @@
 # PetjaLempinen Database Project
 
-This database (**PetjaLempinen**) was created using the open source relational database management system (RDBMS) **MySQL 5.7.11**, running on the **LAMP stack UwAmp 3.1.0**.
+This database (**PetjaLempinen**) was created using the open source relational database management system (RDBMS) **MySQL 5.7.11**, running on the **LAMP stack UwAmp 3.1.0**. This is just a local prototype database creation for learning!
 
 ## Database Overview
 The database contains six core tables:
